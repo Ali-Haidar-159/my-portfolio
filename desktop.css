@@ -408,6 +408,16 @@ h2{
     }
 }
 
+#skillButton {
+	width : 220px ;
+	height : 35px ;
+	background-color : black ;
+	border-radius : 20px ;
+	color : white ;
+	font-size : 20px ;
+	margin-left : 25% ;
+}
+
 /* professional card design end  */
 
 /* achivement-contact design start  */
